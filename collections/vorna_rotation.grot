@@ -1,0 +1,39 @@
+100  0.0   90.0    0.0    0.0  000 ! Craton A End
+100 850.0   90.0    0.0    0.0  000 ! Craton A Start
+
+500  0.0   90.0    0.0    0.0  100 ! Craton E End
+500 850.0   90.0    0.0    0.0  100 ! Craton E Start
+
+200  0.0   90.0    0.0    0.0  000 ! Craton B End
+200 850.0   90.0    0.0    0.0  000 ! Craton B Start
+
+300  0.0   90.0    0.0    0.0  200 ! Craton C End
+300 850.0   90.0    0.0    0.0  200 ! Craton C Start
+
+600  0.0   90.0    0.0    0.0  200 ! Craton F End
+600 850.0   90.0    0.0    0.0  200 ! Craton F Start
+
+
+400  0.0   90.0    0.0    0.0  000 ! Craton D End
+400 850.0   90.0    0.0    0.0  000 ! Craton D Start
+
+700  0.0   90.0    0.0    0.0  400 ! Craton G End
+700 850.0   90.0    0.0    0.0  400 ! Craton G Start
+
+800  0.0   90.0    0.0    0.0  000 ! Craton H End
+800 850.0   90.0    0.0    0.0  000 ! Craton H Start
+
+900  0.0   90.0    0.0    0.0  000 ! Craton I End
+900 850.0   90.0    0.0    0.0  000 ! Craton I Start
+
+1000  0.0   90.0    0.0    0.0  000 ! Craton J End
+1000 850.0   90.0    0.0    0.0  000 ! Craton J Start
+
+1100  0.0   90.0    0.0    0.0  000 ! Craton K End
+1100 850.0   90.0    0.0    0.0  000 ! Craton K Start
+
+1200  0.0   90.0    0.0    0.0  000 ! Craton L End
+1200 850.0   90.0    0.0    0.0  000 ! Craton L Start
+
+1300  0.0   90.0    0.0    0.0  000 ! Craton m End
+1300 850.0   90.0    0.0    0.0  000 ! Craton m Start

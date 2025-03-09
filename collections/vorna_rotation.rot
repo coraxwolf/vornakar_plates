@@ -1,49 +1,26 @@
-100  0.0   90.0    0.0    0.0  000 ! Craton A - End
-100 800.0   45.7648   97.1248   30.5503  000 !
-100 815.0   46.1866   65.2458   31.2393  000 !
-100 825.0   74.9084   54.9161   16.1948  000 !
-100 850.0   90.0    0.0    0.0  000 ! Craton A - Start
-200  0.0   90.0    0.0    0.0  100 ! Craton B - End
-200 850.0   90.0    0.0    0.0  100 ! Craton B - Start
-300  0.0   90.0    0.0    0.0  400 ! Craton C - End
-300 800.0   45.7648  97.1248  -30.5503 000 ! Craton C - Starts Moving Independently
-300 800.0   45.7648  97.1248  -30.5503 000 ! Craton C - Stops Following Craton D
-300 850.0   90.0    0.0    0.0  400 ! Craton C - Start
-400  0.0   90.0    0.0    0.0  000 ! Craton D - End
-400 800.0  45.7648  97.1248  -30.5503  100 ! Craton D - Starts Following Craton A
-400 850.0   90.0    0.0    0.0  000 ! Craton D - Start
-500  0.0   90.0    0.0    0.0  400 ! Craton E - End
-500 800.0   45.7648 97.1248 -30.5503 300 ! Craton E - Starts Following Craton C
-500 850.0   90.0    0.0    0.0  400 ! Craton E - Start
-600  0.0   90.0    0.0    0.0  000 ! Craton F - End
-500 800.0   79.4492 101.467 -64.2163 300 ! Craton E - Starts Following Craton C
-600 815.0   74.6384  -34.8193  -42.784  000 !
-600 825.0   81.7047   72.0358  -29.1346  000 !
-600 850.0   90.0    0.0    0.0  000 ! Craton F - Start
-700  0.0   90.0    0.0    0.0  600 ! Craton G - End
-500 800.0   79.4492 101.467 -64.2163 300 ! Craton E - Starts Following Craton C
-700 850.0   90.0    0.0    0.0  600 ! Craton G - Start
-800  0.0   90.0    0.0    0.0  000 ! Craton H - End
-800 800.0   19.3548  15.2926  -35.5085  100 ! Starts Following Craton A
-800 800.0   24.3767  171.1334   38.0719  000 ! Stops Moving Independently
-800 815.0   27.0748  170.232   33.9083  000 !
-800 825.0    3.4363  168.2946   11.0832  000 !
-800 850.0   90.0    0.0    0.0  000 ! Craton H - Start
-900  0.0   90.0    0.0    0.0  800 ! Craton I - End
-900 800.0  19.3548  15.2926 -35.5095 100 ! Starts Following Craton A
-900 850.0   90.0    0.0    0.0  800 ! Craton I - Start
-1000  0.0   90.0    0.0    0.0  800 ! Craton J - End
-1000 800.0  19.3548  15.2926 -35.5095 100 ! Starts Following Craton A
-1000 850.0   90.0    0.0    0.0  800 ! Craton J - Start
-1100  0.0   90.0    0.0    0.0  000 ! Craton K - End
-1100 800.0  19.3548  15.2926 -35.5095 100 ! Starts Following Craton A
-1100 800.0    5.9022  177.0892   51.2551  000 ! Stops Moving Independently
-1100 815.0    5.816  176.4486   47.0617  000 !
-1100 825.0    4.3432  165.6636   17.6074  000 !
-1100 850.0   90.0    0.0    0.0  000 ! Craton K - Start
-1200  0.0   90.0    0.0    0.0  1100 ! Craton L - End
-1200 800.0  19.3548  15.2926 -35.5095 100 ! Starts Following Craton A
-1200 850.0   90.0    0.0    0.0  1100 ! Craton L - Start
-1300  0.0   90.0    0.0    0.0  1100 ! Craton M - End
-1300 800.0  19.3548  15.2926 -35.5095 100 ! Starts Following Craton A
-1300 850.0   90.0    0.0    0.0  1100 ! Craton M - Start
+100     0.0  90.0  0.0  0.0  000 ! Craton A End
+100   850.0  90.0  0.0  0.0  000 ! Craton A Start
+200     0.0  90.0  0.0  0.0  000 ! Craton B End
+200   850.0  90.0  0.0  0.0  000 ! Craton B Start
+300     0.0  90.0  0.0  0.0  200 ! Craton C End
+300   850.0  90.0  0.0  0.0  200 ! Craton C Start
+400     0.0  90.0  0.0  0.0  000 ! Craton D End
+400   850.0  90.0  0.0  0.0  000 ! Craton D Start
+500     0.0  90.0  0.0  0.0  100 ! Craton E End
+500   850.0  90.0  0.0  0.0  100 ! Craton E Start
+600     0.0  90.0  0.0  0.0  200 ! Craton F End
+600   850.0  90.0  0.0  0.0  200 ! Craton F Start
+700     0.0  90.0  0.0  0.0  400 ! Craton G End
+700   850.0  90.0  0.0  0.0  400 ! Craton G Start
+800     0.0  90.0  0.0  0.0  000 ! Craton H End
+800   850.0  90.0  0.0  0.0  000 ! Craton H Start
+900     0.0  90.0  0.0  0.0  000 ! Craton I End
+900   850.0  90.0  0.0  0.0  000 ! Craton I Start
+1000    0.0  90.0  0.0  0.0  000 ! Craton J End
+1000  850.0  90.0  0.0  0.0  000 ! Craton J Start
+1100    0.0  90.0  0.0  0.0  000 ! Craton K End
+1100  850.0  90.0  0.0  0.0  000 ! Craton K Start
+1200    0.0  90.0  0.0  0.0  000 ! Craton L End
+1200  850.0  90.0  0.0  0.0  000 ! Craton L Start
+1300    0.0  90.0  0.0  0.0  000 ! Craton m End
+1300  850.0  90.0  0.0  0.0  000 ! Craton m Start

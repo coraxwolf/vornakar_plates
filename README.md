@@ -14,25 +14,23 @@ The entire simulation will follow the last super continent breaking up to form t
 
 ##### Early Continents
 
-- Western Continent 28,102,148 km²
-  - Craton A **100** 8,278,953 km²
-  - Craton B 200 841,421 km²
-- Central Continent 86,871,820 km²
-  - Craton C 300 15,387,972 km²
-  - Craton D **400** 12,716,415 km²
-  - Craton E 500 1,614,083 km²
-- Eastern Continent 62,871,595 km²
-  - Craton F **600** 24,578,671 km²
-  - Craton G 700 3,201,497 km²
+- Western Continent 33,493,838.6154 km²
+  - Craton A **100** 12,250,837.6683 km²
+  - Craton E 500 1,288,313.8199 km²
+- Central Continent 87,863,836.0982 km²
+  - Craton B **200** 19,818,980.5018 km²
+  - Craton C 300 11,022.009.3603 km²
+  - Craton F 600 4,807,012.1988 km²
+- Eastern Continent 61,540,425.5899 km²
+  - Craton D **400** 16,099,007.5835 km²
+  - Craton G 700 6,064,655.8993 km²
 - Southern Landmasses
-  - Island A 3,441,972 km²
-    - Craton H **800** 474,988 km²
-    - Craton I 900 142,761 km²
-    - Craton J 1000 162,767 km²
-  - Island B 4,313,824 km²
-    - Craton K **1100** 516,737 km²
-    - Craton L 1200 212,723 km²
-    - Craton M 1300 311,188 km²
+  - Craton H 800 6,211,112.5116 km² (Island I 1,517,399.5091 km²)
+  - Craton I 900 419,114.5484 km² (Island II 1,299,436.717 km²)
+  - Craton J 1000 484,791.6696 km² (Island III 1,539,277.6921 km²)
+  - Craton K 1100 1,057,795.5274 km² (Island IV 2,939,945.8669 km²)
+  - Craton L 1200 767,549.5902 km² (Island V 2,236,130.2993 km²)
+  - Craton M 1300 1,656,359.1770 km² (Island VI 4,322,076.5856 km²)
 
 #### 800–750 MA: Volcanic arcs and microcontinents are absorbed; stable cratons form.
 
