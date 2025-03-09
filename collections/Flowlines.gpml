@@ -3,7 +3,7 @@
     <gml:featureMember>
         <gpml:Flowline>
             <gpml:identity>GPlates-f541cb31-8d71-4ada-a195-9a94fe6868bf</gpml:identity>
-            <gpml:revision>GPlates-714fcdcd-fcaa-41eb-97c5-3fe24d69c051</gpml:revision>
+            <gpml:revision>GPlates-049b505c-5421-4edc-86eb-fb4e014163b0</gpml:revision>
             <gml:name>Flowlines 850Ma</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -14,7 +14,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">810</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -1337,7 +1337,7 @@
     <gml:featureMember>
         <gpml:Flowline>
             <gpml:identity>GPlates-8bc7e185-b77f-4031-a1c0-7d678ceda916</gpml:identity>
-            <gpml:revision>GPlates-ce130e5d-70d9-4b0c-a7dc-8aef08ca7cc8</gpml:revision>
+            <gpml:revision>GPlates-c363be3a-30c3-4ced-93bf-760be5f9190b</gpml:revision>
             <gml:name>Flowlines 850Ma</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1348,7 +1348,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">810</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -2621,7 +2621,7 @@
     <gml:featureMember>
         <gpml:Flowline>
             <gpml:identity>GPlates-f6c51815-7c51-48e0-8e4a-9dd57ef1410f</gpml:identity>
-            <gpml:revision>GPlates-974521e2-bded-413a-a61a-5acf1a8d43ca</gpml:revision>
+            <gpml:revision>GPlates-92615b28-acc1-4f5c-82da-3941ccbea259</gpml:revision>
             <gml:name>Flowlines 850Ma</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -2632,7 +2632,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">810</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
