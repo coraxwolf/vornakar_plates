@@ -243,7 +243,7 @@
     <gml:featureMember>
         <gpml:Craton>
             <gpml:identity>GPlates-d4909d8c-d527-4dfc-985a-e537075ce359</gpml:identity>
-            <gpml:revision>GPlates-7a4213ae-e891-402e-a074-09d15c41e546</gpml:revision>
+            <gpml:revision>GPlates-38b224cb-d342-44aa-9734-a1fa305c325c</gpml:revision>
             <gml:name>Craton F</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -266,7 +266,7 @@
             </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>700</gpml:value>
+                    <gpml:value>600</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
@@ -291,7 +291,7 @@
     <gml:featureMember>
         <gpml:Craton>
             <gpml:identity>GPlates-f72fb492-3f90-47bf-bbf9-7688a2a8d1d4</gpml:identity>
-            <gpml:revision>GPlates-7fe71125-3ca4-4df8-9f70-7f8282d571b7</gpml:revision>
+            <gpml:revision>GPlates-f7714da6-7597-43e6-b266-8f9080e80e37</gpml:revision>
             <gml:name>Craton G</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -314,7 +314,7 @@
             </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
-                    <gpml:value>800</gpml:value>
+                    <gpml:value>700</gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
